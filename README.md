@@ -2,6 +2,10 @@
 
 Implementation of "Magic Mall" toy on Ruby language. 
 
-# Requirements 
+### Requirements 
 
 - ruby.2.6.5 
+
+### Usage 
+
+`ruby magic_ball.rb` from the parent folder. 
